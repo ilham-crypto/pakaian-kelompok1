@@ -1,0 +1,292 @@
+{
+  "form": [
+    {
+      "nama": "Orlynz",
+      "keterangan": "Warna Ijo",
+      "alamat": "Kalikangkung",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Pakaian"
+    },
+    {
+      "id": 2,
+      "nama": "Jaket"
+    },
+    {
+      "id": 3,
+      "nama": "Celana"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Tshirt IU Kpop Eight casual Premium",
+      "harga": 130000,
+      "is_ready": true,
+      "gambar": "Tshirt IU Kpop Eight casual Premium.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Tshirt Peach Milk Shirt Kawaii Premium",
+      "harga": 130000,
+      "is_ready": true,
+      "gambar": "Tshirt Peach Milk Shirt Kawaii Premium.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Longsleeve Texas Penguin Logistic",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "Longsleeve Texas Penguin Logistic.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "T-shirt Luffy Gear Snakeman Mugiwara",
+      "harga": 200000,
+      "is_ready": true,
+      "gambar": "T-shirt Luffy Gear Snakeman Mugiwara.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Longsleeve A line Oversized Buckle Zipper",
+      "harga": 380000,
+      "is_ready": true,
+      "gambar": "Longsleeve A line Oversized Buckle Zipper Grey.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Longsleeve Double Layer Monokuma",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "Longsleeve Anime Double Layer Monokuma.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Tshirt Kerja Kerja Kerja Covid",
+      "harga": 120000,
+      "is_ready": true,
+      "gambar": "Tshirt Kerja Kerja Kerja Covid.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-07",
+      "nama": "Longsleeve Blackbull Kanji Gold",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "Longsleeve Blackbull Kanji Gold.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Pakaian"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-011",
+      "nama": "Hoodie Among Us Fullprint White",
+      "harga": 275000,
+      "is_ready": true,
+      "gambar": "Hoodie Among Us Fullprint White.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-012",
+      "nama": "Waterproof Coach SNK Jacket",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "Waterproof Coach SNK Jacket.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-013",
+      "nama": "Kawaii Plush Jacket Premium",
+      "harga": 325000,
+      "is_ready": true,
+      "gambar": "Kawaii Plush Jacket Premium.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-014",
+      "nama": "Oversized Parka Texas Penguin Logistic",
+      "harga": 350000,
+      "is_ready": true,
+      "gambar": "Oversized Parka Texas Penguin Logistic.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-014",
+      "nama": "SWEATER LAW DEATH GOLD",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "SWEATER LAW DEATH GOLD.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "nama": "JAKET KAWAII X LOLI BLACK",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "JAKET KAWAII X LOLI BLACK.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-014",
+      "nama": "Jaket Parka Monokuma Danganronpa Ultimate",
+      "harga": 350000,
+      "is_ready": true,
+      "gambar": "Jaket Parka Monokuma Danganronpa Ultimate.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "K-014",
+      "nama": "Hoodie Shark Attack Kawaii Premium",
+      "harga": 390000,
+      "is_ready": true,
+      "gambar": "Hoodie Shark Attack Kawaii Premium.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Jaket"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "K-08",
+      "nama": "Hipster celana chino panjang warna hitam",
+      "harga": 178000,
+      "is_ready": true,
+      "gambar": "Hipster celana chino panjang warna hitam.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Celana"
+      }
+    },
+    {
+      "id": 18,
+      "kode": "K-09",
+      "nama": "Hipster Orijeans celana panjang denim standar",
+      "harga": 240000,
+      "is_ready": true,
+      "gambar": "Hipster Orijeans celana panjang denim standar.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Celana"
+      }
+    },
+    {
+      "id": 19,
+      "kode": "K-010",
+      "nama": "Hipster celana jeans warna hitam pekat",
+      "harga": 199000,
+      "is_ready": true,
+      "gambar": "Hipster celana jeans warna hitam pekat.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Celana"
+      }
+    },
+    {
+      "id": 20,
+      "kode": "K-010",
+      "nama": "Celana setelan lebar longgar wanita",
+      "harga": 159000,
+      "is_ready": true,
+      "gambar": "Celana setelan lebar longgar berpinggang tinggi wanita.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Celana"
+      }
+    },
+    {
+      "id": 21,
+      "kode": "K-010",
+      "nama": "Korean High-Waist Cullotes Pants",
+      "harga": 134000,
+      "is_ready": true,
+      "gambar": "Korean High-Waist Cullotes Pants.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Celana"
+      }
+    },
+    {
+      "id": 22,
+      "kode": "K-010",
+      "nama": "Korean High-Waist Short Jeans",
+      "harga": 185000,
+      "is_ready": true,
+      "gambar": "Korean High-Waist Short Jeans.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Celana"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
