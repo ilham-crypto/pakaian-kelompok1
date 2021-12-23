@@ -1,12 +1,5 @@
 {
-  "form": [
-    {
-      "nama": "Orlynz",
-      "keterangan": "Warna Ijo",
-      "alamat": "Kalikangkung",
-      "id": 1
-    }
-  ],
+  "form": [],
   "categories": [
     {
       "id": 1,
